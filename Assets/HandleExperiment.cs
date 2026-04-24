@@ -53,7 +53,7 @@ public class HandleExperiment : MonoBehaviour
         TrialNumber   = int.Parse(TrialNumberObj.GetComponent<TMP_InputField>().text);
 
         // Build output file path and create the folder if it does not exist
-        string folderpath = "./Robot Data/S" + subjId + "/";
+        string folderpath = "./RobotData/S" + subjId + "/";
         outPath = folderpath + "S" + subjId
                 + "_Kd" + joKd + "_Delay_" + visual_delay
                 + "_TrialNum_" + TrialNumber + ".csv";
