@@ -1,6 +1,6 @@
 # TrajectoryDelay
 
-A Unity experiment for motor control research. A sinusoidal trajectory descends down the screen while a subject tracks it with a cursor driven by a robot arm. EMG and gaze recording are synchronised automatically via virtual F5/F6 keypresses.
+An experiment for motor control research written in Unity. A sinusoidal trajectory descends down the screen while a subject tracks it with a cursor using a Robotic wrist interface. The cursor movement has a defined amount of delay compared to subject's wrist movements. EMG and Eye-gaze communication codes has also been implemented.
 
 ---
 
@@ -8,7 +8,7 @@ A Unity experiment for motor control research. A sinusoidal trajectory descends 
 
 | Component | Detail |
 |---|---|
-| Robot arm | Connected via PCAN-USB adapter at 1 Mbit/s |
+| HRX Robot| Connected via PCAN-USB adapter at 1 Mbit/s |
 | EMG / Gaze recorder | Software triggered by F5 (start) and F6 (stop) |
 | OS | Windows (requires `user32.dll` for keyboard events) |
 
