@@ -1,0 +1,1372 @@
+[
+  {
+    "DeviceTimestamp": 1265056759,
+    "SystemTimestamp": 10183260784,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265065092,
+    "SystemTimestamp": 10183269105,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265073426,
+    "SystemTimestamp": 10183277426,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265081759,
+    "SystemTimestamp": 10183285747,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265090093,
+    "SystemTimestamp": 10183294069,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265098426,
+    "SystemTimestamp": 10183302390,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265106759,
+    "SystemTimestamp": 10183310710,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265115093,
+    "SystemTimestamp": 10183319032,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265123427,
+    "SystemTimestamp": 10183327354,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265131760,
+    "SystemTimestamp": 10183335675,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265140093,
+    "SystemTimestamp": 10183344061,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265148426,
+    "SystemTimestamp": 10183352473,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265156760,
+    "SystemTimestamp": 10183360889,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265165093,
+    "SystemTimestamp": 10183369308,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265173427,
+    "SystemTimestamp": 10183377732,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265181761,
+    "SystemTimestamp": 10183386159,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265190096,
+    "SystemTimestamp": 10183394517,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265198429,
+    "SystemTimestamp": 10183402850,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265206763,
+    "SystemTimestamp": 10183411183,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265215096,
+    "SystemTimestamp": 10183419516,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265223430,
+    "SystemTimestamp": 10183427849,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265231763,
+    "SystemTimestamp": 10183436182,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265240096,
+    "SystemTimestamp": 10183444529,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265248429,
+    "SystemTimestamp": 10183452877,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265256763,
+    "SystemTimestamp": 10183461229,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265265096,
+    "SystemTimestamp": 10183469579,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265273430,
+    "SystemTimestamp": 10183477930,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265281763,
+    "SystemTimestamp": 10183486283,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265290096,
+    "SystemTimestamp": 10183494619,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265298429,
+    "SystemTimestamp": 10183502953,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265306763,
+    "SystemTimestamp": 10183511289,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265315097,
+    "SystemTimestamp": 10183519624,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265323432,
+    "SystemTimestamp": 10183527961,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265331765,
+    "SystemTimestamp": 10183536295,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265340098,
+    "SystemTimestamp": 10183544626,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265348431,
+    "SystemTimestamp": 10183552957,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265356765,
+    "SystemTimestamp": 10183561289,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265365098,
+    "SystemTimestamp": 10183569620,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265373432,
+    "SystemTimestamp": 10183577952,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265381765,
+    "SystemTimestamp": 10183586282,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265390098,
+    "SystemTimestamp": 10183594616,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265398431,
+    "SystemTimestamp": 10183602950,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265406765,
+    "SystemTimestamp": 10183611285,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265415098,
+    "SystemTimestamp": 10183619619,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265423432,
+    "SystemTimestamp": 10183627954,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265431765,
+    "SystemTimestamp": 10183636288,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265440098,
+    "SystemTimestamp": 10183644627,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265448434,
+    "SystemTimestamp": 10183652971,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265456770,
+    "SystemTimestamp": 10183661315,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265465103,
+    "SystemTimestamp": 10183669655,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265473436,
+    "SystemTimestamp": 10183677997,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265481769,
+    "SystemTimestamp": 10183686339,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265490103,
+    "SystemTimestamp": 10183694675,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265498436,
+    "SystemTimestamp": 10183703010,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265506770,
+    "SystemTimestamp": 10183711345,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265515103,
+    "SystemTimestamp": 10183719680,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265523436,
+    "SystemTimestamp": 10183728015,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265531769,
+    "SystemTimestamp": 10183736349,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265540103,
+    "SystemTimestamp": 10183744683,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265548436,
+    "SystemTimestamp": 10183753016,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265556770,
+    "SystemTimestamp": 10183761349,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265565103,
+    "SystemTimestamp": 10183769682,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265573436,
+    "SystemTimestamp": 10183778015,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265581775,
+    "SystemTimestamp": 10183786353,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265590114,
+    "SystemTimestamp": 10183794694,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265598447,
+    "SystemTimestamp": 10183803028,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265606781,
+    "SystemTimestamp": 10183811364,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265615114,
+    "SystemTimestamp": 10183819698,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265623447,
+    "SystemTimestamp": 10183828033,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265631780,
+    "SystemTimestamp": 10183836367,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265640114,
+    "SystemTimestamp": 10183844696,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265648447,
+    "SystemTimestamp": 10183853021,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265656781,
+    "SystemTimestamp": 10183861348,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265665114,
+    "SystemTimestamp": 10183869673,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265673447,
+    "SystemTimestamp": 10183877998,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265681780,
+    "SystemTimestamp": 10183886323,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265690114,
+    "SystemTimestamp": 10183894656,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265698445,
+    "SystemTimestamp": 10183902987,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265706777,
+    "SystemTimestamp": 10183911320,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265715110,
+    "SystemTimestamp": 10183919654,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265723443,
+    "SystemTimestamp": 10183927988,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265731776,
+    "SystemTimestamp": 10183936322,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265740110,
+    "SystemTimestamp": 10183944650,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265748443,
+    "SystemTimestamp": 10183952974,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265756777,
+    "SystemTimestamp": 10183961300,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265765110,
+    "SystemTimestamp": 10183969624,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265773443,
+    "SystemTimestamp": 10183977948,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265781776,
+    "SystemTimestamp": 10183986271,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265790110,
+    "SystemTimestamp": 10183994602,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265798443,
+    "SystemTimestamp": 10184002935,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265806777,
+    "SystemTimestamp": 10184011270,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265815110,
+    "SystemTimestamp": 10184019603,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265823443,
+    "SystemTimestamp": 10184027936,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265831778,
+    "SystemTimestamp": 10184036271,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265840113,
+    "SystemTimestamp": 10184044606,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265848446,
+    "SystemTimestamp": 10184052939,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265856780,
+    "SystemTimestamp": 10184061273,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265865113,
+    "SystemTimestamp": 10184069606,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265873446,
+    "SystemTimestamp": 10184077940,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265881779,
+    "SystemTimestamp": 10184086273,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265890113,
+    "SystemTimestamp": 10184094608,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265898446,
+    "SystemTimestamp": 10184102941,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265906780,
+    "SystemTimestamp": 10184111275,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265915113,
+    "SystemTimestamp": 10184119608,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265923446,
+    "SystemTimestamp": 10184127941,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265931779,
+    "SystemTimestamp": 10184136275,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265940113,
+    "SystemTimestamp": 10184144610,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265948446,
+    "SystemTimestamp": 10184152943,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265956780,
+    "SystemTimestamp": 10184161277,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265965115,
+    "SystemTimestamp": 10184169612,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265973450,
+    "SystemTimestamp": 10184177947,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265981783,
+    "SystemTimestamp": 10184186280,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265990117,
+    "SystemTimestamp": 10184194615,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1265998450,
+    "SystemTimestamp": 10184202948,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266006783,
+    "SystemTimestamp": 10184211281,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266015116,
+    "SystemTimestamp": 10184219614,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266023450,
+    "SystemTimestamp": 10184227948,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266031783,
+    "SystemTimestamp": 10184236281,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266040117,
+    "SystemTimestamp": 10184244617,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266048450,
+    "SystemTimestamp": 10184252953,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266056783,
+    "SystemTimestamp": 10184261289,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266065116,
+    "SystemTimestamp": 10184269626,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266073450,
+    "SystemTimestamp": 10184277963,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266081783,
+    "SystemTimestamp": 10184286300,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266090117,
+    "SystemTimestamp": 10184294638,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266098451,
+    "SystemTimestamp": 10184302976,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266106786,
+    "SystemTimestamp": 10184311315,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266115119,
+    "SystemTimestamp": 10184319652,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266123453,
+    "SystemTimestamp": 10184327990,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266131786,
+    "SystemTimestamp": 10184336327,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266140120,
+    "SystemTimestamp": 10184344666,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266148453,
+    "SystemTimestamp": 10184353003,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266156786,
+    "SystemTimestamp": 10184361341,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266165119,
+    "SystemTimestamp": 10184369678,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266173453,
+    "SystemTimestamp": 10184378016,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266181786,
+    "SystemTimestamp": 10184386355,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  },
+  {
+    "DeviceTimestamp": 1266190120,
+    "SystemTimestamp": 10184394693,
+    "LeftX": "NaN",
+    "LeftY": "NaN",
+    "RightX": "NaN",
+    "RightY": "NaN",
+    "GazeX": "NaN",
+    "GazeY": "NaN"
+  }
+]

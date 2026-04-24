@@ -1,0 +1,179 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CometaWindowsForms/1.0.0": {
+        "dependencies": {
+          "Tobii.Research.x64": "2.1.0.1",
+          "CyUSB": "1.2.3.0",
+          "PicoBlue.DaqSys": "1.2.0.0",
+          "Tobii.Interaction.Model": "0.7.3.333",
+          "Tobii.Interaction.Net": "0.7.3.333",
+          "WaveX.BSys": "1.8.8.0",
+          "WaveX.Common": "1.8.8.0",
+          "WaveX": "1.8.8.0",
+          "WaveX.PSys": "1.8.8.0",
+          "WaveX.XSys": "1.8.8.0"
+        },
+        "runtime": {
+          "CometaWindowsForms.dll": {}
+        }
+      },
+      "Tobii.Research.x64/2.1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Tobii.Research.dll": {
+            "assemblyVersion": "2.1.0.1",
+            "fileVersion": "2.1.0.1"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-x64/native/tobii_firmware_upgrade.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.2.0.2"
+          },
+          "runtimes/win-x64/native/tobii_pro.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "2.1.0.1"
+          }
+        }
+      },
+      "CyUSB/1.2.3.0": {
+        "runtime": {
+          "CyUSB.DLL": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "PicoBlue.DaqSys/1.2.0.0": {
+        "runtime": {
+          "PicoBlue.DaqSys.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "Tobii.Interaction.Model/0.7.3.333": {
+        "runtime": {
+          "Tobii.Interaction.Model.dll": {
+            "assemblyVersion": "0.7.3.333",
+            "fileVersion": "0.7.3.333"
+          }
+        }
+      },
+      "Tobii.Interaction.Net/0.7.3.333": {
+        "runtime": {
+          "Tobii.Interaction.Net.dll": {
+            "assemblyVersion": "0.7.3.333",
+            "fileVersion": "0.7.3.333"
+          }
+        }
+      },
+      "WaveX.BSys/1.8.8.0": {
+        "runtime": {
+          "WaveX.BSys.dll": {
+            "assemblyVersion": "1.8.8.0",
+            "fileVersion": "1.8.8.0"
+          }
+        }
+      },
+      "WaveX.Common/1.8.8.0": {
+        "runtime": {
+          "WaveX.Common.dll": {
+            "assemblyVersion": "1.8.8.0",
+            "fileVersion": "1.8.8.0"
+          }
+        }
+      },
+      "WaveX/1.8.8.0": {
+        "runtime": {
+          "WaveX.dll": {
+            "assemblyVersion": "1.8.8.0",
+            "fileVersion": "1.8.8.0"
+          }
+        }
+      },
+      "WaveX.PSys/1.8.8.0": {
+        "runtime": {
+          "WaveX.PSys.dll": {
+            "assemblyVersion": "1.8.8.0",
+            "fileVersion": "1.8.8.0"
+          }
+        }
+      },
+      "WaveX.XSys/1.8.8.0": {
+        "runtime": {
+          "WaveX.XSys.dll": {
+            "assemblyVersion": "1.8.8.0",
+            "fileVersion": "1.8.8.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CometaWindowsForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tobii.Research.x64/2.1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zR3fZ4HU6nNy/NlQZB4m04BawZyvkhZHxCNb9O6mWvp9oAP8ZTn2XQ4Dfe4olel3kG5xagzURm35pAt0uzWHpQ==",
+      "path": "tobii.research.x64/2.1.0.1",
+      "hashPath": "tobii.research.x64.2.1.0.1.nupkg.sha512"
+    },
+    "CyUSB/1.2.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PicoBlue.DaqSys/1.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tobii.Interaction.Model/0.7.3.333": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tobii.Interaction.Net/0.7.3.333": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WaveX.BSys/1.8.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WaveX.Common/1.8.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WaveX/1.8.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WaveX.PSys/1.8.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WaveX.XSys/1.8.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

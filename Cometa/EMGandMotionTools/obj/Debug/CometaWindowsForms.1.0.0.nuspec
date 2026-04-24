@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CometaWindowsForms</id>
+    <version>1.0.0</version>
+    <authors>CometaWindowsForms</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\pc_ha\Documents\Jingwen\VScode\CometaWindowsForms\bin\Debug\net8.0-windows\CometaWindowsForms.runtimeconfig.json" target="lib\net8.0-windows7.0\CometaWindowsForms.runtimeconfig.json" />
+    <file src="C:\Users\pc_ha\Documents\Jingwen\VScode\CometaWindowsForms\bin\Debug\net8.0-windows\CometaWindowsForms.dll" target="lib\net8.0-windows7.0\CometaWindowsForms.dll" />
+  </files>
+</package>
