@@ -8,7 +8,7 @@ TrajectoryDelay is a Unity-based experiment for motor control research. A sinuso
 
 | Component | Details |
 |---|---|
-| HRX robots | Connected via PCAN-USB adapter at 1 Mbit/s |
+| HRX-1 robot | Connected via PCAN-USB adapter at 1 Mbit/s |
 | EMG / gaze recorder | Software triggered by F5 to start and F6 to stop |
 | OS | Windows, required for `user32.dll` keyboard events |
 
@@ -19,7 +19,6 @@ TrajectoryDelay is a Unity-based experiment for motor control research. A sinuso
 - Unity 2022.3.18f1
 - MATLAB Simulink
 - [PEAK PCAN-USB adapter](https://www.peak-system.com/PCAN-USB.199.0.html) with `PCANBasic.dll`
-- Two HRX robots connected via CAN bus at 1 Mbit/s
 - EMG recording software listening for F5 and F6 keyboard shortcuts
 - TextMeshPro, included via Unity Package Manager
 
