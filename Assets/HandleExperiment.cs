@@ -55,7 +55,7 @@ public class HandleExperiment : MonoBehaviour
         // Build output file path and create the folder if it does not exist
         string folderpath = "./RobotData/S" + subjId + "/";
         outPath = folderpath + "S" + subjId
-                + "_Kd" + joKd + "_Delay_" + visual_delay
+                + "_Kd_" + joKd + "_Delay_" + visual_delay
                 + "_TrialNum_" + TrialNumber + ".csv";
 
         if (!Directory.Exists(folderpath)) Directory.CreateDirectory(folderpath);
